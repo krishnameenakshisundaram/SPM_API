@@ -1,0 +1,151 @@
+[
+  {
+    "workStationId": "4B156E49-E0BD-4B87-B791-C2A0028EFCC4",
+    "workStationName": "WorkStation1",
+    "workStationCode": "WS1",
+    "workStationDescription": "WorkStationDescription1",
+    "IsActive": true,
+    "printers": [
+      {
+        "printerId": "BD12FFCE-3B29-4AD9-817B-A86415EB97F2",
+        "printerName": "Printer1",
+        "printerCode": "P1",
+        "printerDescription": "PrinterDescription1",
+        "printType": 1,
+        "IsActive": true
+      },
+      {
+        "printerId": "D8C07399-F31E-444E-AD20-F07DF320F844",
+        "printerName": "Printer4",
+        "printerCode": "P4",
+        "printerDescription": "PrinterDescription4",
+        "printType": 2,
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "workStationId": "CF55081C-5A50-47F7-BA3F-309371E3182A",
+    "workStationName": "WorkStation2",
+    "workStationCode": "WS2",
+    "workStationDescription": "WorkStationDescription2",
+    "IsActive": true,
+    "printers": [
+      {
+        "printerId": "AA73C85E-9D8D-4D26-8C74-39D212D66433",
+        "printerName": "Printer3",
+        "printerCode": "P3",
+        "printerDescription": "PrinterDescription3",
+        "printType": 1,
+        "IsActive": true
+      },
+      {
+        "printerId": "7967FC8E-009B-4A7E-957B-51E41B5B8C31",
+        "printerName": "Printer2",
+        "printerCode": "P2",
+        "printerDescription": "PrinterDescription2",
+        "printType": 2,
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "workStationId": "82052DF1-FD2E-41B5-9A1F-8009C448BF9A",
+    "workStationName": "WorkStation3",
+    "workStationCode": "WS3",
+    "workStationDescription": "WorkStationDescription23",
+    "IsActive": true,
+    "printers": [
+      {
+        "printerId": "973CCD5F-C37E-4049-BD3C-980ADF6F2C9E",
+        "printerName": "Printer5",
+        "printerCode": "P5",
+        "printerDescription": "PrinterDescription5",
+        "printType": 1,
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "workStationId": "B2148C40-6FF6-45CC-8790-C497D87F5CEC",
+    "workStationName": "WorkStation4",
+    "workStationCode": "WS4",
+    "workStationDescription": "WorkStationDescription4",
+    "IsActive": true,
+    "printers": [
+      {
+        "printerId": "BD12FFCE-3B29-4AD9-817B-A86415EB97F2",
+        "printerName": "Printer1",
+        "printerCode": "P1",
+        "printerDescription": "PrinterDescription1",
+        "printType": 1,
+        "IsActive": true
+      },
+      {
+        "printerId": "7967FC8E-009B-4A7E-957B-51E41B5B8C31",
+        "printerName": "Printer2",
+        "printerCode": "P2",
+        "printerDescription": "PrinterDescription2",
+        "printType": 2,
+        "IsActive": true
+      },
+      {
+        "printerId": "D8C07399-F31E-444E-AD20-F07DF320F844",
+        "printerName": "Printer4",
+        "printerCode": "P4",
+        "printerDescription": "PrinterDescription4",
+        "printType": 2,
+        "IsActive": true
+      }
+    ]
+  },
+  {
+    "workStationId": "8036121F-B107-407A-A461-3A8163C67607",
+    "workStationName": "WorkStation5",
+    "workStationCode": "WS5",
+    "workStationDescription": "WorkStationDescription5",
+    "IsActive": true,
+    "printers": [
+      {
+        "printerId": "7967FC8E-009B-4A7E-957B-51E41B5B8C31",
+        "printerName": "Printer2",
+        "printerCode": "P2",
+        "printerDescription": "PrinterDescription2",
+        "printType": 2,
+        "IsActive": true
+      },
+      {
+        "printerId": "AA73C85E-9D8D-4D26-8C74-39D212D66433",
+        "printerName": "Printer3",
+        "printerCode": "P3",
+        "printerDescription": "PrinterDescription3",
+        "printType": 1,
+        "IsActive": true
+      },
+      {
+        "printerId": "D8C07399-F31E-444E-AD20-F07DF320F844",
+        "printerName": "Printer4",
+        "printerCode": "P4",
+        "printerDescription": "PrinterDescription4",
+        "printType": 2,
+        "IsActive": true
+      },
+      {
+        "printerId": "973CCD5F-C37E-4049-BD3C-980ADF6F2C9E",
+        "printerName": "Printer5",
+        "printerCode": "P5",
+        "printerDescription": "PrinterDescription5",
+        "printType": 1,
+        "IsActive": true
+      },
+      {
+        "printerId": "1FDAEFD6-6DB5-4627-8E18-74A74AD4D26D",
+        "printerName": "Printer6",
+        "printerCode": "P6",
+        "printerDescription": "PrinterDescription6",
+        "printType": 2,
+        "IsActive": true
+      }
+    ]
+  }
+]
